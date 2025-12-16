@@ -13,5 +13,5 @@ Entregáveis principais:
 > Lembrar de criar e usar o `.venv`
 
 - Instalar deps: `pip install -r requirements.txt`
-- Rodar testes: `pytest -q`
-- Rodar demo notebook: `jupyter notebook`
+- Rodar testes: `python -m pytest -q`
+- Rodar demo notebook: `python -m jupyter notebook`
